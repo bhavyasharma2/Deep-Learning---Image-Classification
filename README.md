@@ -3,7 +3,7 @@
 
 **Overview**
 
-This project/tutorial focuses on classifying images of cats and dogs using transfer learning from a pre-trained neural network. Transfer learning involves leveraging a pre-existing model trained on a large dataset and customizing it for a specific task, saving computational resources and time.
+This project/tutorial focuses on classifying images within large dataset using transfer learning from a pre-trained neural network. Transfer learning involves leveraging a pre-existing model trained on a large dataset and customizing it for a specific task, saving computational resources and time.
 
 
 **Project Structure**
