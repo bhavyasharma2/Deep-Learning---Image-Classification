@@ -10,15 +10,15 @@ This project/tutorial focuses on classifying images within large dataset using t
 
 - Data Examination and Understanding:
 
- Analyze and comprehend the dataset, gaining insights into the distribution of classes and characteristics of images.
+ > Analyze and comprehend the dataset, gaining insights into the distribution of classes and characteristics of images.
 
 - Input Pipeline with Keras ImageDataGenerator:
 
-Build an efficient input pipeline using Keras ImageDataGenerator to preprocess and augment the image data for training.
+> Build an efficient input pipeline using Keras ImageDataGenerator to preprocess and augment the image data for training.
 
 - Model Composition:
 
-Compose a neural network model for image classification, considering a pre-trained base model as a feature extractor.
+> Compose a neural network model for image classification, considering a pre-trained base model as a feature extractor.
 
 - Transfer Learning Techniques:
 
