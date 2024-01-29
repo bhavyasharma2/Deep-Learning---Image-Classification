@@ -1,8 +1,13 @@
-Image Classification with Transfer Learning and Fine-Tuning
-Overview
+# Image Classification with Transfer Learning and Fine-Tuning
+
+
+**Overview**
+
 This project/tutorial focuses on classifying images of cats and dogs using transfer learning from a pre-trained neural network. Transfer learning involves leveraging a pre-existing model trained on a large dataset and customizing it for a specific task, saving computational resources and time.
 
-Project Structure
+
+**Project Structure**
+
 Data Examination and Understanding:
 
 Analyze and comprehend the dataset, gaining insights into the distribution of classes and characteristics of images.
@@ -30,6 +35,6 @@ Train the model using the prepared dataset.
 Evaluate the model's performance.
 
 
-Two Key Achievements
+**Two Key Achievements**
 Implemented feature extraction for image classification, leveraging a pre-trained model to extract meaningful features and training a new classifier for a specific dataset.
 Applied fine-tuning by unfreezing top layers of a pre-trained model and jointly training new classifier layers, enhancing the base model's feature representations for a specialized task.
