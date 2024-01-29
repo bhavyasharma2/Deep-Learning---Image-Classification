@@ -34,7 +34,7 @@ This project/tutorial focuses on classifying images within large dataset using t
 
 > Fine-tune higher-order feature representations in the base model for the specific task.
 
--Training and Evaluation:
+- Training and Evaluation:
 
 > Load the pre-trained base model and weights.
 
